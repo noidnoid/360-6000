@@ -24,6 +24,6 @@
 
 
 echo 'src-git luci-app-adguardhome https://github.com/rufengsuixing/luci-app-adguardhome' >>feeds.conf.default
-echo 'src-git https://github.com/Meroser/luci-app-aria2' >>feeds.conf.default
-echo 'src-git https://github.com/krystic/luci-app-cifs-mount' >>feeds.conf.default
-echo 'src-git https://github.com/sirpdboy/luci-app-ddns-go' >>feeds.conf.default
+echo 'src-git luci-app-aria2 https://github.com/Meroser/luci-app-aria2' >>feeds.conf.default
+echo 'src-git luci-app-cifs-mount https://github.com/krystic/luci-app-cifs-mount' >>feeds.conf.default
+echo 'src-git luci-app-ddns-go https://github.com/sirpdboy/luci-app-ddns-go' >>feeds.conf.default
